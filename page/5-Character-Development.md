@@ -1,3 +1,17 @@
+# 5. Character Development
+ 
+## 5.1 Learn about your MarsCat
+ 
+MarsCat is the world's first bionic pet cat developed by Elephant Robotics, aiming to be a home robot, a robotic pet to comfort you and surprise you.
+ 
+MarsCat can walk, run, sleep, sit, stretch, bites nail, knead and even bury litter although she won't produce any waste. It may express different emotions by different meows or gestures. It can feel your touch, hear your voice, see your face and play with toys.
+ 
+Every MarsCat is unique from its eye to body. It also has different characters and personalities. Some cats are vivacious, while some are lazy. Some cats are aloof while some are more close to human. Also, some cats are super curious and they meow frequently.
+ 
+MarsCat is built to allow you to shape its personalities according to the way you pet it. More interactions with MarsCat will impel it to be more close to you. More conversations with MarsCat will impel it to meow to you often. Every time you touch it, talk to it or even let it see you, will change its personality.
+ 
+![性格](..\image\MarsCat_demo\1619491502181.png)
+
 ## 5.2 Daily life of MarsCat
 
 With bionic designed and high-tech, MarsCat have independent and autonomous living systems. Different types of sensors including image, voice and touch are integrated to carry out feature extraction, pattern recognition and action planning to build intelligent brain for MarsCat.
