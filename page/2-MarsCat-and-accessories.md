@@ -35,8 +35,6 @@
 
 ## 2.3 Charger
 
-(图）
-
 The ex-factory plug of the power supply has 2 circular holes, and we will provide a converter free according to your country. If the provided converter is not suitable, please purchase it by yourself.
 
 **Note:**
@@ -62,7 +60,7 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 
 ## 2.4 MarsBowl
 
-（图）
+![](image/2-MarsCat-and-accessories/1619779097532.png)
 
 **Note:**
 
@@ -92,4 +90,3 @@ They are specially designed for MarsCat, MarsCat will show interest and pounce o
 It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
 
 (配图)
-
