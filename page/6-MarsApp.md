@@ -36,7 +36,6 @@ We recommend that you update your MarsApp to the latest version.
 
 Follow the on-screen instructions to set up MarsCat with MarsApp.
 
-（video）
 
 ![IMG\_256](..\image\MarsCat_demo\1619491589688.png)
 
@@ -68,4 +67,3 @@ You can visit "Play" in the menu to
 - Control MarsCat's voice
 - Control MarsCat's vision
 - Control MarsCat's sensor
-

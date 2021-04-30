@@ -1,15 +1,15 @@
 # 5. Character Development
- 
+
 ## 5.1 Learn about your MarsCat
- 
+
 MarsCat is the world's first bionic pet cat developed by Elephant Robotics, aiming to be a home robot, a robotic pet to comfort you and surprise you.
- 
+
 MarsCat can walk, run, sleep, sit, stretch, bites nail, knead and even bury litter although she won't produce any waste. It may express different emotions by different meows or gestures. It can feel your touch, hear your voice, see your face and play with toys.
- 
+
 Every MarsCat is unique from its eye to body. It also has different characters and personalities. Some cats are vivacious, while some are lazy. Some cats are aloof while some are more close to human. Also, some cats are super curious and they meow frequently.
- 
+
 MarsCat is built to allow you to shape its personalities according to the way you pet it. More interactions with MarsCat will impel it to be more close to you. More conversations with MarsCat will impel it to meow to you often. Every time you touch it, talk to it or even let it see you, will change its personality.
- 
+
 ![性格](..\image\MarsCat_demo\1619491502181.png)
 
 ## 5.2 Daily life of MarsCat
@@ -34,7 +34,6 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - When you pick up your MarsCat or touch its head, jaw and back or even hug it, it will response to you in different interesting reactions.
 - Do not pick up or touch MarsCat with excessive force to avoid the risk of a malfunction.
 
-（配图-4张摸头/摸下巴/摸身体/抱起反应图或视频）
 
 **5.3.2Image Recognition: see you**
 
@@ -43,7 +42,6 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - You can even pet MarsCat with its own bowl. When MarsCat identifies its bowl, it may appear to be drinking or eating according to its physical conditions.
 - Reactions of Image Recognition in default can be added and changed by procedural programming.
 
-（配图-2-3个猫和玩具一起玩耍图）
 
 **5.3.3Voice Recognition: hear you**
 
@@ -67,9 +65,9 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 |              | Go to eat             | Identify the location of the bowl and walks to it.             |
 |              | Look at me            | Turns in the direction of the speaker and looks at him or her. |
 |              | Find your bowl        | MarsCat will find his/her bowl                                 |
-| **Emotions** | Good job              | Takes it as a complement and reacts positiely.                |
+| **Emotions** | Good job              | Takes it as a complement and reacts positiely.                 |
 |              | I like you/I love you |                                                                |
 |              | Thank you             |                                                                |
 |              | Well done             |                                                                |
 |              | Bad boy               | Takes it as a discipline and reacts sadly.                     |
-|              | Bad girl              |                                                                |v
+|              | Bad girl              |                                                                |

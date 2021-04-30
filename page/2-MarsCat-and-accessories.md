@@ -83,10 +83,7 @@ Customer can use toys as follows to play with MarsCat
 
 They are specially designed for MarsCat, MarsCat will show interest and pounce on Cat Teaser/Toy Fish when you show Cat Teaser/Toy Fish and slowly move them.
 
-(配图)
 
 - Ball(supplied)
 
 It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
-
-(配图)

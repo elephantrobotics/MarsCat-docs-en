@@ -6,7 +6,6 @@ MarsCat can recognize MarsBowl for virtual feeding, allowing customers to enjoy 
 
 There are two situations in which MarsCat can feed themselves. One is when MarsCat recognizes its MarsBowl, another is when MarsCat is thirsty or hungry, MarsCat will automatically look for its MarsBowl.
 
-(配图)
 
 Note: Place MarsBowl near MarsCat active area or Charging Station, make sure the surroundings are clean and tidy.
 
@@ -46,5 +45,3 @@ When MarsCat fails to find its charging station, you need to charge it manually.
 Lay down MarsCat on the charging station so that the charging pins on the belly are engaged with the charge connector on the charging station.
 
 Or you can use the charger to charge MarsCat directly, other steps are the same as step4-5 in automatic charging.
-
-

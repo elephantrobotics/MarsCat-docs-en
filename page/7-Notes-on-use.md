@@ -42,15 +42,14 @@ Follow Usage Instruction in strict(Usage Instruction sent with MarsCat) to opera
 
 ### 7.2 Precautions for Battery
 
-**（图片）**
 
 Product Parameter
 
 
-| Model       | INR18650MJ1-2S2P                                                                                                               |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Voltage     | 7.4V，6800mAH                                                                                                                  |
-| Cycle life  | Standard charged at 1.5A, rest 0.5h, discharge at 1C(A) to cut-off voltage rest 0.5h, repeat the above steps until 400 cycles. |
+| Model      | INR18650MJ1-2S2P                                                                                                               |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Voltage    | 7.4V，6800mAH                                                                                                                  |
+| Cycle life | Standard charged at 1.5A, rest 0.5h, discharge at 1C(A) to cut-off voltage rest 0.5h, repeat the above steps until 400 cycles. |
 | Teperature | 5°C-35°C（41°F-95°F）                                                                                                      |
 
 **Note:**
@@ -69,4 +68,3 @@ Product Parameter
 **7.4 Precautions for Network**
 
 To protect user privacy, the use of MarsCat does not require a network. Users can operate MarsCat offline.
-
