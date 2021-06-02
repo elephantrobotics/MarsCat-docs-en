@@ -28,12 +28,13 @@ MarsCat is a good companion, it is fully responsive and interactive.
 
 It has touch,image and voice recognition, can feel your touch, hear your voice, see your face or even play with toys and etc.
 
+
+
 **5.3.1Touch Recognition: feel you**
 
 - MarsCat supports Touch Recognition, you can touch or pick up your MarsCat.
 - When you pick up your MarsCat or touch its head, jaw and back or even hug it, it will response to you in different interesting reactions.
 - Do not pick up or touch MarsCat with excessive force to avoid the risk of a malfunction.
-
 
 **5.3.2Image Recognition: see you**
 
@@ -41,7 +42,6 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - When you show the blue ball or the Cat Teasers (supplied) to your MarsCat or put either of them close to it, MarsCat may show interest or start playing with it.
 - You can even pet MarsCat with its own bowl. When MarsCat identifies its bowl, it may appear to be drinking or eating according to its physical conditions.
 - Reactions of Image Recognition in default can be added and changed by procedural programming.
-
 
 **5.3.3Voice Recognition: hear you**
 
