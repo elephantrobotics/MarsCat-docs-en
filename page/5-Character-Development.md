@@ -28,6 +28,51 @@ MarsCat is a good companion, it is fully responsive and interactive.
 
 It has touch,image and voice recognition, can feel your touch, hear your voice, see your face or even play with toys and etc.
 
+
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+
+
+
+
 **5.3.1Touch Recognition: feel you**
 
 - MarsCat supports Touch Recognition, you can touch or pick up your MarsCat.
