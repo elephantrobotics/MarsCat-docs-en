@@ -30,6 +30,52 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 
 
 
+<<<<<<< HEAD
+=======
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+
+
+
+
+>>>>>>> 2f66df7baeeb67dc443798c5a9059a81edb3dbdc
 **5.3.1Touch Recognition: feel you**
 
 - MarsCat supports Touch Recognition, you can touch or pick up your MarsCat.
