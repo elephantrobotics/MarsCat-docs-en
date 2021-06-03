@@ -8,7 +8,11 @@ MarsApp is designed for you to better interact with MarsCat, and help you enjoy 
 
 Install the MarsApp to your smartphone.
 
-You can find the app from our website: www.elephantrobotics.com/marscat/marsapp or search the app store for"MarsApp".
+1.Google: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
+
+![](image/6-MarsApp/1622703039803.png)
+
+2.search MarsApp on apple store
 
 **Version Support**
 
@@ -36,12 +40,11 @@ We recommend that you update your MarsApp to the latest version.
 
 Follow the on-screen instructions to set up MarsCat with MarsApp.
 
+![IMG<span data-type=](..\image\MarsCat_demo\1619491589688.png)\_256" />
 
-![IMG\_256](..\image\MarsCat_demo\1619491589688.png)
+![IMG<span data-type=](..\image\MarsCat_demo\1619491604763.png)\_257" />
 
-![IMG\_257](..\image\MarsCat_demo\1619491604763.png)
-
-![IMG\_258](..\image\MarsCat_demo\1619491624282.png)
+![IMG<span data-type=](..\image\MarsCat_demo\1619491624282.png)\_258" />
 
 P1: Learn the basic parameters for personalization settings.
 
@@ -55,15 +58,15 @@ P2: Record dynamic data in real time to track growth trajectory.
 
 You can use "Status" in the menu to
 
-- Learn about MarsCat’s Levels and Experience Values
+- Learn about MarsCat's Levels and Experience Values
 - Learn about the status of MarsCat
-- Learn about MarsCat’s daily index
+- Learn about MarsCat's daily index
 
 P3: Remote control to unlock more interactive games
 
 You can visit "Play" in the menu to
 
 - Control MarsCat's move
-- Control MarsCat's voice
-- Control MarsCat's vision
-- Control MarsCat's sensor
+- Display MarsCat's voice
+- Display MarsCat's vision
+- Display MarsCat's sensor

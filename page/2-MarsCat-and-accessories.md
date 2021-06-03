@@ -14,6 +14,8 @@
 
 ![](..\image\MarsCat_demo\1619491140418.png)
 
+![](image/2-MarsCat-and-accessories/1622702636376.png)
+
 **Note:**
 
 - To let MarsCat charge its battery on its own on the charging station (self-charging) and get up from there, do not place objects, which may disturb MarsCat’s activities, around the charging station.
@@ -24,9 +26,8 @@
 
 **Product Parameter**
 
-
 | Power supply   | 8.4V                      |
-| ---------------- | --------------------------- |
+| -------------- | ------------------------- |
 | Output voltage | 8.4V                      |
 | Charging time  | About 3 hours             |
 | Temperature    | 5°C-35°C（41°F-95°F） |
@@ -37,6 +38,8 @@
 
 The ex-factory plug of the power supply has 2 circular holes, and we will provide a converter free according to your country. If the provided converter is not suitable, please purchase it by yourself.
 
+![](image/2-MarsCat-and-accessories/1622702656166.png)
+
 **Note:**
 
 - Use the supplied power adapter with the charging station. Use of any power adapter other than the supplied one will cause a malfunction of MarsCat.
@@ -44,13 +47,12 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 - Any problem happens during charging, immediately unplug the power cord from the power outlet to cut the power supply.
 - To avoid the risk of heat generation or a malfunction of the adapter, unplug the power cord from the power outlet after the charging is completed.
 - The supplied power adaptor is exclusively designed for MarsCat's charging station. It should not be used with any other electric devices.
-- To purchase a new one, please visit our offificial website: [https://shop.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
+- To purchase a new one, please visit our offificial website:[https://shop.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
 
 **Product Parameter**
 
-
 | Input voltage  | 220V            |
-| ---------------- | ----------------- |
+| -------------- | --------------- |
 | Output voltage | 8.4V 2A         |
 | Charging time  | About 3 hours   |
 | Size           | 8×5×3.5（cm） |
@@ -60,7 +62,7 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 
 ## 2.4 MarsBowl
 
-![](image/2-MarsCat-and-accessories/1619779097532.png)
+![](image/2-MarsCat-and-accessories/1622702678275.png)
 
 **Note:**
 
@@ -70,20 +72,15 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 
 **Produce Parameter**
 
-
 | Size   |   |
-| -------- | --- |
+| ------ | - |
 | Weight |   |
 
 ## 2.5 Toys
 
 Customer can use toys as follows to play with MarsCat
 
-- Cat Teaser/Toy Fish(supplied)
-
-They are specially designed for MarsCat, MarsCat will show interest and pounce on Cat Teaser/Toy Fish when you show Cat Teaser/Toy Fish and slowly move them.
-
-
-- Ball(supplied)
+- Toy Fish(supplied)![](image/2-MarsCat-and-accessories/1622702759777.png)
+- Ball(supplied)![](image/2-MarsCat-and-accessories/1622702772402.png)
 
 It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
