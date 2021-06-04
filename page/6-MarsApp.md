@@ -16,6 +16,8 @@ You can find download on official website shown in the following picture.
 
 2.search MarsApp on Apple Store
 
+![](image/6-MarsApp/1622801259166.png)
+
 **Version Support**
 
 Supported operating system for MarsApp for smartphones
@@ -42,7 +44,6 @@ We recommend that you update your MarsApp to the latest version.
 
 Follow the on-screen instructions to set up MarsCat with MarsApp.
 
-
 <img src="..\image\MarsCat_demo\_app1.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
 <img src="..\image\MarsCat_demo\_app2.png" alt="图片替换文本" width="400" height="600" align="bottom" />
@@ -50,8 +51,6 @@ Follow the on-screen instructions to set up MarsCat with MarsApp.
 <img src="..\image\MarsCat_demo\_app3.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
 <img src="..\image\MarsCat_demo\_app4.png" alt="图片替换文本" width="400" height="600" align="bottom" />
-
-
 
 P1: Learn the basic parameters for personalization settings.
 
