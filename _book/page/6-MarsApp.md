@@ -10,11 +10,9 @@ Install the MarsApp to your smartphone.
 
 1.Google: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
 
-You can find download on official website shown in the following picture.
-
 ![](image/6-MarsApp/1622703039803.png)
 
-2.search MarsApp on Apple Store
+2.search MarsApp on apple store
 
 **Version Support**
 
@@ -42,9 +40,6 @@ We recommend that you update your MarsApp to the latest version.
 
 Follow the on-screen instructions to set up MarsCat with MarsApp.
 
-<<<<<<< HEAD
-![](image/6-MarsApp/1622706872938.png)
-=======
 <img src="..\image\MarsCat_demo\_app1.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
 <img src="..\image\MarsCat_demo\_app2.png" alt="图片替换文本" width="400" height="600" align="bottom" />
@@ -54,7 +49,6 @@ Follow the on-screen instructions to set up MarsCat with MarsApp.
 <img src="..\image\MarsCat_demo\_app4.png" alt="图片替换文本" width="400" height="600" align="bottom" />
 
 
->>>>>>> a803e0c180bd8d5a3e51345a545f5a75d39bcc85
 
 P1: Learn the basic parameters for personalization settings.
 
