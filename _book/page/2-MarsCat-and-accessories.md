@@ -56,25 +56,27 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 | Output voltage | 8.4V 2A         |
 | Charging time  | About 3 hours   |
 | Size           | 8×5×3.5（cm） |
-| Weight         |                 |
 | Temperature    | 5℃-35℃        |
 | Cable length   | 1m              |
+|                |                 |
 
 ## 2.4 MarsBowl
+
+When you receive your box, you should connect MarsBowl shown in the picture.
+
+![](image/2-MarsCat-and-accessories/1622779249743.png)
 
 ![](image/2-MarsCat-and-accessories/1622702678275.png)
 
 **Note:**
 
-- To ensure MarsCat can accurately identify MarsBowl, do not place any other objects around MarsBowl that may interfere with MarsCat’s activity.
+- To ensure MarsCat can accurately identify MarsBowl, do not place any other objects around MarsBowl that may interfere with MarsCat's activity.
 - Please choose a bright room without direct sunlight to place MarsBowl.
 - Do not exert excessive force on MarsBowl, for example, press or step on MarsBowl.
+-
 
-**Produce Parameter**
 
-| Size   |   |
-| ------ | - |
-| Weight |   |
+
 
 ## 2.5 Toys
 
