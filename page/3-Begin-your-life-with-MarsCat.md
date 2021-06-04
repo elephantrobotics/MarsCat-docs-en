@@ -10,7 +10,7 @@
 
 - Thank-You Card, Quick Start Guide, Usage instruction and Important Tips, please read Important Tips first.
 - MarsCat itself and its tail. The tail is removed and stored in the separate place for safety, users need to install it by themselves(remove the rubber sleeve from the receptacle hole of the tail and push the tail into it).
-- Charging Station, Charger, MarsBowl, Changeable pads\*4 and Toys(Cat Teaser/Ball/Fish)
+- Charging Station, Charger, MarsBowl, Changeable pads\*4 and Toys(Ball/Fish)
 
 ## 3.2 Turn on MarsCat: Wake up MarsCat
 
@@ -26,7 +26,9 @@
 
 ![](..\image\MarsCat_demo\1619491344308.png)
 
-## 3.3 Getting the Chaging Station ready
+When you first turn on MarsCat, it may take a lot of time.
+
+## 3.3 Getting the Charging Station ready
 
 Charging Station is used for MarsCat charging, the specific usage can refer to **How to use Charging Station.**
 
@@ -37,4 +39,3 @@ Refer to **MarsApp**
 ## 3.5 Turn off MarsCat
 
 If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don’t stop pressing the button until the status LED goes off.
-

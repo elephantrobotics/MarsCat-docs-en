@@ -6,9 +6,9 @@
 
 **1.MarsCat’s eyes will flash**
 
-There are different settings of MarsCat’s eyes, trigger conditions are also different.
+There are different settings of MarsCat's eyes, trigger conditions are also different.
 
-It's not every time MarsCat responds when you make a trigger action. However, if MarsCat’s eyes have not changed for a long time, please contact with us.
+It's not every time MarsCat responds when you make a trigger action.
 
 **2.How to maintain the battery after a long time non-use?**
 
@@ -34,16 +34,15 @@ When MarsCat is charging, the battery starts charging and the status LED of the 
 
 When MarsCat is fully charged, the status LED of the charger turns green. It takes approximately 3 hours to fully charged MarsCat.
 
-**5.It can’t be charged, it still shows low charge after a long time charging**
+**5.It can't be charged, it still shows low charge after a long time charging**
 
 ①When charging, confirm that the charger display proper light, the charger should turn red.
 
 ②Check the charger plug and whether the charging pins on the belly is plugged in, or the charger is damaged.
 
-**6.How long does it take to fully charge, how long can MarsCat play with full
-power?**
+**6.How long does it take to fully charge, how long can MarsCat play with full power?**
 
-①It takes bout 3 hours for the battery to fully charge, 2 hours for active exercise and 3-4 hours for regular exercise
+①It takes about 3 hours for the battery to fully charge, 2 hours for active exercise and 3-4 hours for regular exercise.
 
 ②If the battery is not used for a long time, it may take more time to charge the battery.
 
@@ -56,7 +55,7 @@ key for a long time.**
 
 **8.MarsCat's eyes have always been the shape of lightning**
 
-MarsCat’s eyes appears lightning because he hear your calling, if lightning appears within your calling, it may be due to misidentification.
+MarsCat's eyes appears lightning because he hear your calling, if lightning appears within your calling, it may be due to misidentification.
 
 **9.MarsCat's eyes**
 
@@ -80,8 +79,6 @@ The tail is removed and stored in the separate place for safety, users need to i
 
 Four changeable pads is attached.
 
-(Video)
-
 **2.There may be an unusual sound when walking, or walking is not smooth**
 
 ①Restart the machine to see if the noise stops
@@ -100,7 +97,7 @@ Four changeable pads is attached.
 
 **4.The hind legs can't move**
 
-MarsCat’s joint have a limited angle, you shouldn’t move it hard, it may cause joint fractures.
+MarsCat's joint have a limited angle, you shouldn’t move it hard, it may cause joint fractures.
 
 **5.MarsCat is not stable when walking or doing some movements, and it may fall.**
 
@@ -126,4 +123,3 @@ Email: <support@elephantrobotics.com>
 Phone:+86(0755)-8696-8565(working day 9:30-18:30)
 
 Website: www.elephantrobotics.com
-
