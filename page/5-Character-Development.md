@@ -28,22 +28,22 @@ MarsCat is a good companion, it is fully responsive and interactive.
 
 It has touch,image and voice recognition, can feel your touch, hear your voice, see your face or even play with toys and etc.
 
-| Eye image                                          | Meaning                                                                                                                                                                                |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](image/5-Character-Development/1622702403880.png) | Low power, MarsCat needs to be charged                                                                                                                                                 |
-| ![](image/5-Character-Development/1622702428777.png) | MarsCat is charging                                                                                                                                                                    |
-| ![](image/5-Character-Development/1622702445204.png) | When MarsCat sees ball, his/her eye image may change like these two picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he sees ball.      |
-| ![](image/5-Character-Development/1622702455430.png) | When MarsCat sees face, his/her eye image may change like these two picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he sees your face. |
-| ![](image/5-Character-Development/1622702474175.png) | When MarsCat hear your voice, his/her eyes may change like this                                                                                                                        |
-| ![](image/5-Character-Development/1622702483614.png) | When MarsCat feels dizzy, or he/she is still sleepy                                                                                                                                    |
-| ![](image/5-Character-Development/1622702499077.png) | When MarsCat sees his Marsbowl and he is hungry at that time                                                                                                                           |
-| ![](image/5-Character-Development/1622702514328.png) | When MarsCat enjoys your touching and feels happy                                                                                                                                      |
-| ![](image/5-Character-Development/1622702528668.png) | When you hug MarsCat and he/she is happy                                                                                                                                               |
-| ![](image/5-Character-Development/1622702541862.png) | When MarsCat is playing his/her toys or playing himself                                                                                                                                |
-| ![](image/5-Character-Development/1622702561618.png) | It means that MarsCat feels dangerous and he would fall down, you should put him/her on a safe place                                                                                   |
-| ![](image/5-Character-Development/1622702570989.png) | When MarsCat flipped or he/she feels dangerous, you should put MarsCat on a safe place                                                                                                 |
-| ![](image/5-Character-Development/1622702583299.png) | It means MarsCat feel hot, you should put MarsCat on a lower-temperature place and let MarsCat relax                                                                                   |
-| ![](image/5-Character-Development/1622702598335.png) | When MarsCat is sleeping, and if you set up MarsCat's sleep time, MarsCat will show this image until that time                                                                         |
+| Eye image                                          | Meaning                                                                                                                                                                               |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](image/5-Character-Development/1622702403880.png) | Low power, MarsCat needs to be charged                                                                                                                                                |
+| ![](image/5-Character-Development/1622702428777.png) | MarsCat is charging                                                                                                                                                                   |
+| ![](image/5-Character-Development/1622702445204.png) | When MarsCat sees ball, his/her eye image may change like this picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he/she sees ball.      |
+| ![](image/5-Character-Development/1622702455430.png) | When MarsCat sees face, his/her eye image may change like this picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he/she sees your face. |
+| ![](image/5-Character-Development/1622702474175.png) | When MarsCat hear your voice, his/her eyes may change like this                                                                                                                       |
+| ![](image/5-Character-Development/1622702483614.png) | When MarsCat feels dizzy, or he/she is still sleepy                                                                                                                                   |
+| ![](image/5-Character-Development/1622702499077.png) | When MarsCat sees his Marsbowl and he is hungry at that time                                                                                                                          |
+| ![](image/5-Character-Development/1622702514328.png) | When MarsCat enjoys your touching and feels happy                                                                                                                                     |
+| ![](image/5-Character-Development/1622702528668.png) | When you hug MarsCat and he/she is happy                                                                                                                                              |
+| ![](image/5-Character-Development/1622702541862.png) | When MarsCat is playing his/her toys or playing himself                                                                                                                               |
+| ![](image/5-Character-Development/1622702561618.png) | It means that MarsCat feels dangerous and he would fall down, you should put him/her on a safe place                                                                                  |
+| ![](image/5-Character-Development/1622702570989.png) | When MarsCat flipped or he/she feels dangerous, you should put MarsCat on a safe place                                                                                                |
+| ![](image/5-Character-Development/1622702583299.png) | It means MarsCat feel hot, you should put MarsCat on a lower-temperature place and let MarsCat relax                                                                                  |
+| ![](image/5-Character-Development/1622702598335.png) | When MarsCat is sleeping, and if you set up MarsCat's sleep time, MarsCat will show this image until that time                                                                        |
 
 **5.3.1Touch Recognition: feel you**
 
@@ -54,7 +54,7 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 **5.3.2Image Recognition: see you**
 
 - MarsCat has a front-view camera on its nose that acts as human or animal eyes, supports Image Recognition, including faces and objects.
-- When you show the blue ball or the Cat Teasers (supplied) to your MarsCat or put either of them close to it, MarsCat may show interest or start playing with it.
+- When you show the blue ball to your MarsCat or put it close to MarsCat, MarsCat may show interest or start playing with it.
 - You can even pet MarsCat with its own bowl. When MarsCat identifies its bowl, it may appear to be drinking or eating according to its physical conditions.
 - Reactions of Image Recognition in default can be added and changed by procedural programming.
 

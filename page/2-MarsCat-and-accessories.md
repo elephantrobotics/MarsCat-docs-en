@@ -12,8 +12,6 @@
 
 ## 2.2 Charging Station
 
-![](..\image\MarsCat_demo\1619491140418.png)
-
 ![](image/2-MarsCat-and-accessories/1622702636376.png)
 
 **Note:**
@@ -29,7 +27,7 @@
 | Power supply   | 8.4V                      |
 | -------------- | ------------------------- |
 | Output voltage | 8.4V                      |
-| Charging time  | About 3 hours             |
+| Charging time  | About 3-5 hours           |
 | Temperature    | 5°C-35°C（41°F-95°F） |
 | Size           | 360×100×177（cm）       |
 | Weight         | 1.27kg                    |
@@ -73,14 +71,10 @@ When you receive your box, you should connect MarsBowl shown in the picture.
 - To ensure MarsCat can accurately identify MarsBowl, do not place any other objects around MarsBowl that may interfere with MarsCat's activity.
 - Please choose a bright room without direct sunlight to place MarsBowl.
 - Do not exert excessive force on MarsBowl, for example, press or step on MarsBowl.
--
-
-
-
 
 ## 2.5 Toys
 
-Customer can use toys as follows to play with MarsCat
+Customer can use toys as follows to play with MarsCat.
 
 - Toy Fish(supplied)![](image/2-MarsCat-and-accessories/1622702759777.png)
 - Ball(supplied)![](image/2-MarsCat-and-accessories/1622702772402.png)

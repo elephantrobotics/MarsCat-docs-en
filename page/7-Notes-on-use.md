@@ -27,7 +27,7 @@ Follow Usage Instruction in strict(Usage Instruction sent with MarsCat) to opera
 
 - When MarsCat or the charging station is soiled with small particles and dust, gently wipe them off with a dry, soft cloth.
 - Do not use any volatile agent, such as alcohol or paint thinner, to avoid damaging the surface.
-- If residues of dust or fifingerprints are found on MarsCat’s camera or sensor covers, do not touch them with bare hands. Instead, blow them off with a commercially available blower or wipe them off with a soft cloth.
+- If residues of dust or fifingerprints are found on MarsCat's camera or sensor covers, do not touch them with bare hands. Instead, blow them off with a commercially available blower or wipe them off with a soft cloth.
 
 7.1.4Moisture condensation
 
@@ -42,12 +42,10 @@ Follow Usage Instruction in strict(Usage Instruction sent with MarsCat) to opera
 
 ### 7.2 Precautions for Battery
 
-
 Product Parameter
 
-
 | Model      | INR18650MJ1-2S2P                                                                                                               |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Voltage    | 7.4V，6800mAH                                                                                                                  |
 | Cycle life | Standard charged at 1.5A, rest 0.5h, discharge at 1C(A) to cut-off voltage rest 0.5h, repeat the above steps until 400 cycles. |
 | Teperature | 5°C-35°C（41°F-95°F）                                                                                                      |
@@ -62,7 +60,7 @@ Product Parameter
 
 ## 7.3 Precautions for SD Card&Data
 
-- Do not take SD card out. If you want to read or transfer data, please use USB access to the fifile. For details, please visit our offificial website to consult relevant information: [https://www.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
+- Do not take SD card out. If you want to read or transfer data, please use USB access to the fifile. For details, please visit our offificial website to consult relevant information:[https://www.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
 - In the event that your data is not recorded and thus unavailable for retrieval due to some reasons, such as a malfunction of MarsCat or a communication error, please be advised that Elephant Robotics assumes no liability for compensating lost data.
 
 **7.4 Precautions for Network**

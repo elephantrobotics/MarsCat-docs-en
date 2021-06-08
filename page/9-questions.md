@@ -4,7 +4,7 @@
 
 **9.1.1Hardware**
 
-**1.MarsCat’s eyes will flash**
+**1.MarsCat's eyes will flash**
 
 There are different settings of MarsCat's eyes, trigger conditions are also different.
 

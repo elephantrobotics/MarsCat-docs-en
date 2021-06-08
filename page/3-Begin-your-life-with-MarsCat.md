@@ -26,7 +26,7 @@
 
 ![](..\image\MarsCat_demo\1619491344308.png)
 
-When you first turn on MarsCat, it may take a lot of time.
+When you first turn on MarsCat, it may take a lot of time. Please wait patiently.
 
 ## 3.3 Getting the Charging Station ready
 
@@ -38,4 +38,4 @@ Refer to **MarsApp**
 
 ## 3.5 Turn off MarsCat
 
-If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don’t stop pressing the button until the status LED goes off.
+If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don't stop pressing the button until the status LED goes off.
