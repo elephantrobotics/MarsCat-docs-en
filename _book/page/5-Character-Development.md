@@ -28,25 +28,22 @@ MarsCat is a good companion, it is fully responsive and interactive.
 
 It has touch,image and voice recognition, can feel your touch, hear your voice, see your face or even play with toys and etc.
 
-
-| Eye image                                            | Meaning                                                      |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| ![](image/5-Character-Development/1622702403880.png) | Low power, MarsCat needs to be charged                       |
-| ![](image/5-Character-Development/1622702428777.png) | MarsCat is charging                                          |
-| ![](image/5-Character-Development/1622702445204.png) | When MarsCat sees ball, his/her eye image may change like these two picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he sees ball. |
+| Eye image                                          | Meaning                                                                                                                                                                                |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](image/5-Character-Development/1622702403880.png) | Low power, MarsCat needs to be charged                                                                                                                                                 |
+| ![](image/5-Character-Development/1622702428777.png) | MarsCat is charging                                                                                                                                                                    |
+| ![](image/5-Character-Development/1622702445204.png) | When MarsCat sees ball, his/her eye image may change like these two picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he sees ball.      |
 | ![](image/5-Character-Development/1622702455430.png) | When MarsCat sees face, his/her eye image may change like these two picture, however, MarsCat is a characteristic cat, sometimes his/her eye will not change though he sees your face. |
-| ![](image/5-Character-Development/1622702474175.png) | When MarsCat hear your voice, his/her eyes may change like this |
-| ![](image/5-Character-Development/1622702483614.png) | When MarsCat feels dizzy, or he/she is still sleepy          |
-| ![](image/5-Character-Development/1622702499077.png) | When MarsCat sees his Marsbowl and he is hungry at that time |
-| ![](image/5-Character-Development/1622702514328.png) | When MarsCat enjoys your touching and feels happy            |
-| ![](image/5-Character-Development/1622702528668.png) | When you hug MarsCat and he/she is happy                     |
-| ![](image/5-Character-Development/1622702541862.png) | When MarsCat is playing his/her toys or playing himself      |
-| ![](image/5-Character-Development/1622702561618.png) | It means that MarsCat feels dangerous and he would fall down, you should put him/her on a safe place |
-| ![](image/5-Character-Development/1622702570989.png) | When MarsCat flipped or he/she feels dangerous, you should put MarsCat on a safe place |
-| ![](image/5-Character-Development/1622702583299.png) | It means MarsCat feel hot, you should put MarsCat on a lower-temperature place and let MarsCat relax |
-| ![](image/5-Character-Development/1622702598335.png) | When MarsCat is sleeping, and if you set up MarsCat's sleep time, MarsCat will show this image until that time |
-
-
+| ![](image/5-Character-Development/1622702474175.png) | When MarsCat hear your voice, his/her eyes may change like this                                                                                                                        |
+| ![](image/5-Character-Development/1622702483614.png) | When MarsCat feels dizzy, or he/she is still sleepy                                                                                                                                    |
+| ![](image/5-Character-Development/1622702499077.png) | When MarsCat sees his Marsbowl and he is hungry at that time                                                                                                                           |
+| ![](image/5-Character-Development/1622702514328.png) | When MarsCat enjoys your touching and feels happy                                                                                                                                      |
+| ![](image/5-Character-Development/1622702528668.png) | When you hug MarsCat and he/she is happy                                                                                                                                               |
+| ![](image/5-Character-Development/1622702541862.png) | When MarsCat is playing his/her toys or playing himself                                                                                                                                |
+| ![](image/5-Character-Development/1622702561618.png) | It means that MarsCat feels dangerous and he would fall down, you should put him/her on a safe place                                                                                   |
+| ![](image/5-Character-Development/1622702570989.png) | When MarsCat flipped or he/she feels dangerous, you should put MarsCat on a safe place                                                                                                 |
+| ![](image/5-Character-Development/1622702583299.png) | It means MarsCat feel hot, you should put MarsCat on a lower-temperature place and let MarsCat relax                                                                                   |
+| ![](image/5-Character-Development/1622702598335.png) | When MarsCat is sleeping, and if you set up MarsCat's sleep time, MarsCat will show this image until that time                                                                         |
 
 **5.3.1Touch Recognition: feel you**
 
@@ -66,25 +63,90 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - MarsCat supports Voice Recognition. MarsCat can response to you in different ways when you communicate with your MarsCat in the following Voice Commands.
 - When your MarsCat fails to recognize Voice Commands, please take it to a quieter place and try again.
 - The current version of Voice Recognition supports Chinese and English.
+- You'd better to call "MarsCat" to awake MarsCat so that these voice conmmands is useful.
 
-| **Category** | **Voice Commands** | **Description**                                          |
-| ------------------ | ------------------------ | -------------------------------------------------------------- |
-| **Actions**  | Walk around              | Walk                                                           |
-|                    | Run away                 | Run                                                            |
-|                    | Relax                    | Stretch                                                        |
-|                    | Sit down                 | Sit down                                                       |
-|                    | Stand up                 | Stand up                                                       |
-|                    | Lie down                 | Lie down                                                       |
-|                    | Stop                     | Stops the actions in progress.                                 |
-|                    | Be quiet                 | Stops sounds and actions in progress.                          |
-|                    | Come here                | Identify the location of the speaker and walks to him or her.  |
-|                    | Go away                  | MarsCat will leave                                             |
-|                    | Go to eat                | Identify the location of the bowl and walks to it.             |
-|                    | Look at me               | Turns in the direction of the speaker and looks at him or her. |
-|                    | Find your bowl           | MarsCat will find his/her bowl                                 |
-| **Emotions** | Good job                 | Takes it as a complement and reacts positiely.                 |
-|                    | I like you/I love you    |                                                                |
-|                    | Thank you                |                                                                |
-|                    | Well done                |                                                                |
-|                    | Bad boy                  | Takes it as a discipline and reacts sadly.                     |
-|                    | Bad girl                 |                                                                |
+
+
+<table>
+<tr>
+	<td>Category</td>
+	<td>Voice Commands</td>
+	<td>Description</td>
+</tr>
+<tr>
+	<td rowspan="13">Actions</td>
+	<td>Walk around</td>
+	<td>Walk</td>
+</tr>
+<tr>
+	<td>Run away</td>
+	<td>Run</td>
+</tr>
+<tr>
+	<td>Relax</td>
+	<td>Stretch</td>
+</tr>
+<tr>
+	<td>Sit down</td>
+	<td>Sit down</td>
+</tr>
+<tr>
+	<td>Lie down</td>
+	<td>Lie down</td>
+</tr>
+<tr>
+	<td>Stand up</td>
+	<td>Stand up</td>
+</tr>
+<tr>
+	<td>Stop</td>
+	<td>Stops the actions in progress.</td>
+</tr>
+<tr>
+	<td>Be quiet</td>
+	<td>Stops sounds and actions in progress.</td>
+</tr>
+<tr>
+	<td>Come here</td>
+	<td>Identify the location of the speaker and walks to him or her.</td>
+</tr>
+<tr>
+	<td>Go away</td>
+	<td>MarsCat will leave</td>
+</tr>
+<tr>
+	<td>Go to eat</td>
+	<td>Identify the location of the bowl and walks to it.</td>
+</tr>
+<tr>
+	<td>Look at me</td>
+	<td>Turns in the direction of the speaker and looks at him or her.</td>
+</tr>
+<tr>
+	<td>Find your bowl</td>
+	<td>MarsCat will find his/her bowl</td>
+</tr>
+<tr>
+	<td rowspan="6">Emotions</td>
+	<td>Good job</td>
+	<td rowspan="4">Takes it as a complement and reacts positiely.</td>
+</tr>
+<tr>
+	<td>I like you/I love you</td>
+</tr>
+<tr>
+	<td>Thank you</td>
+</tr>
+<tr>
+	<td>Well done</td>
+</tr>
+<tr>
+	<td>Bad boy</td>
+	<td rowspan="2">Takes it as a discipline and reacts sadly.</td>
+</tr>
+<tr>
+	<td>Bad girl</td>
+</tr>
+</table>
+
+
