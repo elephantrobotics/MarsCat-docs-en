@@ -64,25 +64,92 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - When your MarsCat fails to recognize Voice Commands, please take it to a quieter place and try again.
 - The current version of Voice Recognition supports Chinese and English.
 - You'd better to call "MarsCat" to awake MarsCat so that these voice conmmands is useful.
+<<<<<<< HEAD
+=======
 
-| **Category** | **Voice Commands** | **Description**                                          |
-| ------------------ | ------------------------ | -------------------------------------------------------------- |
-| **Actions**  | Walk around              | Walk                                                           |
-|                    | Run away                 | Run                                                            |
-|                    | Relax                    | Stretch                                                        |
-|                    | Sit down                 | Sit down                                                       |
-|                    | Stand up                 | Stand up                                                       |
-|                    | Lie down                 | Lie down                                                       |
-|                    | Stop                     | Stops the actions in progress.                                 |
-|                    | Be quiet                 | Stops sounds and actions in progress.                          |
-|                    | Come here                | Identify the location of the speaker and walks to him or her.  |
-|                    | Go away                  | MarsCat will leave                                             |
-|                    | Go to eat                | Identify the location of the bowl and walks to it.             |
-|                    | Look at me               | Turns in the direction of the speaker and looks at him or her. |
-|                    | Find your bowl           | MarsCat will find his/her bowl                                 |
-| **Emotions** | Good job                 | Takes it as a complement and reacts positiely.                 |
-|                    | I like you/I love you    |                                                                |
-|                    | Thank you                |                                                                |
-|                    | Well done                |                                                                |
-|                    | Bad boy                  | Takes it as a discipline and reacts sadly.                     |
-|                    | Bad girl                 |                                                                |
+
+
+<table>
+<tr>
+	<td>Category</td>
+	<td>Voice Commands</td>
+	<td>Description</td>
+</tr>
+<tr>
+	<td rowspan="13">Actions</td>
+	<td>Walk around</td>
+	<td>Walk</td>
+</tr>
+<tr>
+	<td>Run away</td>
+	<td>Run</td>
+</tr>
+<tr>
+	<td>Relax</td>
+	<td>Stretch</td>
+</tr>
+<tr>
+	<td>Sit down</td>
+	<td>Sit down</td>
+</tr>
+<tr>
+	<td>Lie down</td>
+	<td>Lie down</td>
+</tr>
+<tr>
+	<td>Stand up</td>
+	<td>Stand up</td>
+</tr>
+<tr>
+	<td>Stop</td>
+	<td>Stops the actions in progress.</td>
+</tr>
+<tr>
+	<td>Be quiet</td>
+	<td>Stops sounds and actions in progress.</td>
+</tr>
+<tr>
+	<td>Come here</td>
+	<td>Identify the location of the speaker and walks to him or her.</td>
+</tr>
+<tr>
+	<td>Go away</td>
+	<td>MarsCat will leave</td>
+</tr>
+<tr>
+	<td>Go to eat</td>
+	<td>Identify the location of the bowl and walks to it.</td>
+</tr>
+<tr>
+	<td>Look at me</td>
+	<td>Turns in the direction of the speaker and looks at him or her.</td>
+</tr>
+<tr>
+	<td>Find your bowl</td>
+	<td>MarsCat will find his/her bowl</td>
+</tr>
+<tr>
+	<td rowspan="6">Emotions</td>
+	<td>Good job</td>
+	<td rowspan="4">Takes it as a complement and reacts positiely.</td>
+</tr>
+<tr>
+	<td>I like you/I love you</td>
+</tr>
+<tr>
+	<td>Thank you</td>
+</tr>
+<tr>
+	<td>Well done</td>
+</tr>
+<tr>
+	<td>Bad boy</td>
+	<td rowspan="2">Takes it as a discipline and reacts sadly.</td>
+</tr>
+<tr>
+	<td>Bad girl</td>
+</tr>
+</table>
+
+>>>>>>> e95a2f6fb5e9d69b805e1ca6c16ecb749749bcf6
+
