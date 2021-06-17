@@ -14,9 +14,8 @@ You can find download on official website shown in the following picture.
 
 ![](image/6-MarsApp/1622703039803.png)
 
-2.search MarsApp on Apple Store
+2.search marscat on Apple Store
 
-![](image/6-MarsApp/1622801259166.png)
 
 **Version Support**
 
