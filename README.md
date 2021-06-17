@@ -8,9 +8,10 @@ This Gitbook is provided to help you when you have issues or questions in the co
 
 This Gitbook is not updated regularly. The updated time and content will be on the table.
 
-| Version | Date(Chinese time) | Content                                     |
-| ------- | ------------------ | ------------------------------------------- |
-| 1       | 06.04              | Update eye image, MarsApp and other details |
-| 2       | 06.08              | Update the table and other details          |
+| Version | Date(Chinese time) | Content                                                                                                                             |
+| ------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | 06.04              | Update eye image, MarsApp and other details                                                                                         |
+| 2       | 06.08              | Update the table and other details                                                                                                  |
+| 3       | 06.17              | Update how to turn on MarsCat, there are some precautions. Update MarsApp(download and solutions for unable to connect). Update FAQ |
 
-Users can download the latest version from the official website of Elephant Robot at any time.
+Users can download the latest version from the official website of Elephant Robotics at any time.

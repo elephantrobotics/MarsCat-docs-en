@@ -8,7 +8,19 @@
 
 **Product Parameter**
 
-![](..\image\MarsCat_demo\1619491122020.png)
+| Name:                     | MarsCat                                                                        | Speaker:                | 1Speaker, 1Microphone                           |
+| ------------------------- | ------------------------------------------------------------------------------ | ----------------------- | ----------------------------------------------- |
+| **Model:**          | MARS-1001                                                                      | **Sensors:**           | Capative Touch Sensor                           |
+| **Age to use:**     | 12+                                                                            | **Switches:**          | 1 Power Button                                  |
+| **Joints:**         | 16(Head*2, Legs: 4(Legs) ×3(Joints),Tails×2)                                 | **Interface:**         | Type-C(USB), DC JACK(charging port),HDMI        |
+| **Material:**       | Plastic + Glass(eye)+Rubber(Ear, Neck and Paw)                                 | **Communications:**    | BLUETOOTH                                       |
+| **Color:**          | White, Black, Grey, Ginger                                                     | **Power Consumption:** | Approx. 20W                                     |
+| **Size:**           | Lie Down: 388(L)×268(W)×240(H) Without Tail/ 578(L)×268(W)-240(H) with Tail | **Battery:**           | 7.4V, 6800mAH                                   |
+| **Weight:**         | 2.9KG                                                                          | **Battery Duration:**  | 2 Hours Regular Motion, 3-4Hours Regular Motion |
+| **MicroProcessor:** | Raspberry Pi 3B(wifi)-Quad-Core ARM Cortex-A53CPU,1GB RAM                      | **Charge:**            | Charging Station/Power Adapter; 8.4V/2A(Max)    |
+| **Display:**        | 20LEDs(EYES), 128×128px, 1.5 Inch                                             | **Charge Duration:**   | 4-6 hours                                       |
+| **Camera:**         | 5M Pixel Camera, 72 degree                                                     | **Accessories:**       | Type-C USB, 4 Changeable Paws                   |
+|                           |                                                                                | **Toys:**              | Cat Ball and Toy Fish                           |
 
 ## 2.2 Charging Station
 
@@ -16,7 +28,7 @@
 
 **Note:**
 
-- To let MarsCat charge its battery on its own on the charging station (self-charging) and get up from there, do not place objects, which may disturb MarsCat’s activities, around the charging station.
+- To let MarsCat charge its battery on its own on the charging station (self-charging) and get up from there, do not place objects, which may disturb MarsCat's activities, around the charging station.
 - Choose an open bright place without direct sunlight to place the charging station and avoid a place subject to high room temperatures of 35 °C (95 °F) and higher.
 - Do not touch the charge connector with bare hands to avoid causing a bad contact.
 - Do not exert force on the charging station, for example, step on or kick the charging station.
@@ -27,7 +39,7 @@
 | Power supply   | 8.4V                      |
 | -------------- | ------------------------- |
 | Output voltage | 8.4V                      |
-| Charging time  | About 3-5 hours           |
+| Charging time  | About 4-6 hours           |
 | Temperature    | 5°C-35°C（41°F-95°F） |
 | Size           | 360×100×177（cm）       |
 | Weight         | 1.27kg                    |
@@ -56,7 +68,6 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 | Size           | 8×5×3.5（cm） |
 | Temperature    | 5℃-35℃        |
 | Cable length   | 1m              |
-|                |                 |
 
 ## 2.4 MarsBowl
 

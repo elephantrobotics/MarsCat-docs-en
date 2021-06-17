@@ -16,6 +16,7 @@ You can find download on official website shown in the following picture.
 
 2.search marscat on Apple Store
 
+![](image/6-MarsApp/1623901367693.png)
 
 **Version Support**
 
@@ -37,7 +38,21 @@ If the search fails, please check the status of your Bluetooth and MarsCat and t
 
 **Software update**
 
-We recommend that you update your MarsApp to the latest version.
+It is recommend to update your MarsApp to the latest version.
+
+**Unable to connect**
+
+1. MarsCat's Bluetooth signal could not be searched
+
+![](file:///C:/Users/Admin/Documents/WXWork/1688851065542459/Cache/Image/2021-06/e404142f41774efd2174d1e8f56f3f7.jpg)![](image/6-MarsApp/1623911420959.png)
+
+**Solution**: Restart MarsCat & Reload MarsApp
+
+2.Staying on the Bluetooth connection page, and you can't turn on Bluetooth
+
+![](image/6-MarsApp/1623911457297.png)
+
+**Solution**: When the App is first used, a request permission box pops up, If you don't see the request permission box after updating the App, you should give the app permission in the phone settings and try again.
 
 ## 6.2 How to use MarsApp
 

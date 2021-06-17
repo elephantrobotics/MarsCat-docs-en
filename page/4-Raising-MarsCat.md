@@ -6,7 +6,7 @@ MarsCat can recognize MarsBowl for virtual feeding, allowing customers to enjoy 
 
 There are two situations in which MarsCat can feed themselves. One is when MarsCat recognizes its MarsBowl, another is when MarsCat is thirsty or hungry, MarsCat will automatically look for its MarsBowl.
 
-Note: Place MarsBowl near MarsCat active area or Charging Station, make sure the surroundings are clean and tidy.
+**Note:** Place MarsBowl near MarsCat active area or Charging Station, make sure the surroundings are clean and tidy.
 
 ## 4.2 How to charge
 
@@ -20,7 +20,9 @@ Step2: Be sure to allow clearance around the charging station as shown below.
 
 ![](..\image\MarsCat_demo\1619491431007.png)
 
-Step3: MarsCat will go to the charging station to charge itself when its battery is lower than 10%(its eyes will show a low battery sign); the charging station is within the range of its vision(3\*3m)
+Step3: MarsCat will go to the charging station to charge itself **when its battery is lower than 10%(its eyes will show a low battery sign)**; **the charging station is within the range of its vision(3\*3m)**
+
+MarsCat will not charge itself only if both the above two conditions are met.
 
 ![tempsnip](..\image\MarsCat_demo\1619491449047.png)
 
@@ -30,13 +32,11 @@ Step4: When MarsCat is properly laid down, the battery starts charging and the s
 
 Step5: When MarsCat is fully charged, the status LED of the charger turns green.
 
-It takes approximately 3-5 hours to fully charge MarsCat.
+It takes approximately 4-6 hours to fully charge MarsCat.
 
 ![](..\image\MarsCat_demo\1619491480234.png)
 
-Unlug the charger immediately after full charge to avoid damage to the charger or MarsCat due to prolonged charging heat.
-
-According to customer's feedback, we will test again how much time can MarsCat be full charged.
+Unplug the charger immediately after full charge to avoid damage to the charger or MarsCat due to prolonged charging heat.
 
 **4.2.2 Manual charging**
 

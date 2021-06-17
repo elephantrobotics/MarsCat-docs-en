@@ -18,15 +18,21 @@
 
 ![](..\image\MarsCat_demo\1619491302215.png)
 
+**Note:** Press and hold the button, and you should release the button when the power light turns blue. 
+
+It takes some time when you firstly turn on MarsCat, you should be patient.
+
+**Do not press the power button frequently.**
+
 - Step2 Lay down MarsCat on a flat and clean floor as shown below. Wait for a while until MarsCat starts to move.
 
 ![](..\image\MarsCat_demo\1619491325900.png)
 
+**Note: It is neccessary to lay down MarsCat as shown in the picture, or you will fail to turn on MarsCat.**
+
 - Step3 When MarsCat gets up and stands still, proceed to “set up MarsCat with MarsAPP”
 
 ![](..\image\MarsCat_demo\1619491344308.png)
-
-When you first turn on MarsCat, it may take a lot of time. Please wait patiently.
 
 ## 3.3 Getting the Charging Station ready
 

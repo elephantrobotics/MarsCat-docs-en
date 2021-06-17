@@ -65,11 +65,27 @@ When touching MarsCat, there is a possibility of the shape of love.
 
 When calling MarsCat, there is a possibility that lightning will appear.
 
+**10.Suddenly restart the system automatically**
+
+The system is automatically restarted when it is overloaded and overheated
+
 **9.1.2Software**
 
 We have solved problems with the software during testing.
 
 If you have any other problems about software, please contact customer service for solution.
+
+**1.About the system language**
+
+There are only two options for the system language: Chinese and English, and after setting up the language, the APP/MarsCat/repeat connection will not change.
+
+**2.About changing the time zone**
+
+The system time changes in 2-3 minutes after changing the time zone.
+
+**3.When it's sleep time but MarsCat did not go into sleep mode and did not display sleep animation**
+
+MarsCat completes the previous action first, and immediately goes into sleep mode after the previous action.
 
 **9.1.3Others**
 
