@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>6 MarsApp · GitBook</title>
+        <title>10 MarsCatAPI · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -65,10 +65,8 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="7-Notes-on-use.html" />
     
-    
-    <link rel="prev" href="5-Character-Development.html" />
+    <link rel="prev" href="9-questions.html" />
     
 
     </head>
@@ -162,7 +160,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.6" data-path="6-MarsApp.html">
+        <li class="chapter " data-level="1.6" data-path="6-MarsApp.html">
             
                 <a href="6-MarsApp.html">
             
@@ -214,7 +212,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10" data-path="10-marscatAPI.html">
+        <li class="chapter active" data-level="1.10" data-path="10-marscatAPI.html">
             
                 <a href="10-marscatAPI.html">
             
@@ -257,7 +255,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >6 MarsApp</a>
+        <a href=".." >10 MarsCatAPI</a>
     </h1>
 </div>
 
@@ -272,69 +270,104 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="6marsapp">6.MarsApp</h1>
-<h2 id="61-introduction">6.1 Introduction</h2>
-<p>MarsApp is designed for you to better interact with MarsCat, and help you enjoy the life of MarsCat.</p>
-<p><strong>Installation</strong></p>
-<p>Install the MarsApp to your smartphone.</p>
-<p>1.Google: <a href="https://www.elephantrobotics.com/en/mars-en/" target="_blank">MarsCat &#x2013; Elephant Robotics</a></p>
-<p>You can find download on official website shown in the following picture.</p>
-<p><img src="image/6-MarsApp/1622703039803.png" alt=""></p>
-<p>2.search marscat on Apple Store</p>
-<p><img src="image/6-MarsApp/1623901367693.png" alt=""></p>
-<p><strong>Version Support</strong></p>
-<p>Supported operating system for MarsApp for smartphones</p>
-<p><strong>Language Support</strong></p>
+                                <h1 id="marscat-&#x5F00;&#x53D1;&#x624B;&#x518C;">MarsCat &#x5F00;&#x53D1;&#x624B;&#x518C;</h1>
+<h2 id="&#x5F00;&#x53D1;&#x524D;&#x7684;&#x51C6;&#x5907;">&#x5F00;&#x53D1;&#x524D;&#x7684;&#x51C6;&#x5907;</h2>
 <ul>
-<li>Chinese</li>
-<li>English</li>
+<li>&#x8FDE;&#x63A5;&#x663E;&#x793A;&#x5668;&#x3001;&#x9F20;&#x6807;&#x3001;&#x952E;&#x76D8;</li>
+<li><p>&#x8FDE;&#x63A5;wifi&#x540E;&#xFF0C;ssh&#x3001;vnc&#x7B49;&#x8FDC;&#x7A0B;&#x8FDE;&#x63A5;</p>
+<p>  <strong>&#x6CE8; &#x8D26;&#x6237;&#x548C;&#x5BC6;&#x7801;&#x90FD;&#x662F; <code>pi</code></strong></p>
+</li>
+<li>&#x5728;&#x5F00;&#x53D1;&#x524D;&#x9700;&#x8981;&#x505C;&#x6B62;&#x732B;&#x54AA;&#x7684;&#x5F00;&#x673A;&#x81EA;&#x542F;&#x670D;&#x52A1;<pre><code>  cd ~/marsai
+  ./tools/stop-systemd-services.sh
+  ./tools/disable-systemd-services.sh
+</code></pre></li>
+<li>&#x5982;&#x679C;&#x4F60;&#x8981;&#x653E;&#x5F03;&#x4E86;&#xFF0C;&#x91CD;&#x542F;&#x732B;&#x7684;&#x670D;&#x52A1;<pre><code>  cd ~/marsai
+  ./tools/enable-systemd-services.sh
+  ./tools/start-systemd-services.sh
+</code></pre></li>
 </ul>
-<p><strong>Online settings</strong></p>
-<p>Open app--click connecting Bluetooth--choose the MarsCat you want to connect</p>
-<ul>
-<li>Search successfully: the page shows &quot;connect&quot;, click it</li>
-<li>Search unsuccessfully: the page shows &quot;not find MarsCat&quot;</li>
-</ul>
-<p>If the search fails, please check the status of your Bluetooth and MarsCat and try again.</p>
-<p><strong>Software update</strong></p>
-<p>It is recommend to update your MarsApp to the latest version.</p>
-<p><strong>Unable to connect</strong></p>
-<ol>
-<li>MarsCat&apos;s Bluetooth signal could not be searched</li>
-</ol>
-<p><img src="file:///C:/Users/Admin/Documents/WXWork/1688851065542459/Cache/Image/2021-06/e404142f41774efd2174d1e8f56f3f7.jpg" alt=""><img src="image/6-MarsApp/1623911420959.png" alt=""></p>
-<p><strong>Solution</strong>: Restart MarsCat &amp; Reload MarsApp</p>
-<p>2.Staying on the Bluetooth connection page, and you can&apos;t turn on Bluetooth</p>
-<p><img src="image/6-MarsApp/1623911457297.png" alt=""></p>
-<p><strong>Solution</strong>: When the App is first used, a request permission box pops up, If you don&apos;t see the request permission box after updating the App, you should give the app permission in the phone settings and try again.</p>
-<h2 id="62-how-to-use-marsapp">6.2 How to use MarsApp</h2>
-<p>Follow the on-screen instructions to set up MarsCat with MarsApp.</p>
-<p><img src="../image/MarsCat_demo/_app1.png" alt="&#x56FE;&#x7247;&#x66FF;&#x6362;&#x6587;&#x672C;" width="400" height="600" align="bottom"></p>
-<p><img src="../image/MarsCat_demo/_app2.png" alt="&#x56FE;&#x7247;&#x66FF;&#x6362;&#x6587;&#x672C;" width="400" height="600" align="bottom"></p>
-<p><img src="../image/MarsCat_demo/_app3.png" alt="&#x56FE;&#x7247;&#x66FF;&#x6362;&#x6587;&#x672C;" width="400" height="600" align="bottom"></p>
-<p><img src="../image/MarsCat_demo/_app4.png" alt="&#x56FE;&#x7247;&#x66FF;&#x6362;&#x6587;&#x672C;" width="400" height="600" align="bottom"></p>
-<p>P1: Learn the basic parameters for personalization settings.</p>
-<p>You can visit &quot;Basics&quot; in the menu to</p>
-<ul>
-<li>Set MarsCat&apos;s eye color</li>
-<li>Set MarsCat&apos;s sex</li>
-<li>Set MarsCat&apos;s sleep time</li>
-</ul>
-<p>P2: Record dynamic data in real time to track growth trajectory.</p>
-<p>You can use &quot;Status&quot; in the menu to</p>
-<ul>
-<li>Learn about MarsCat&apos;s Levels and Experience Values</li>
-<li>Learn about the status of MarsCat</li>
-<li>Learn about MarsCat&apos;s daily index</li>
-</ul>
-<p>P3: Remote control to unlock more interactive games</p>
-<p>You can visit &quot;Play&quot; in the menu to</p>
-<ul>
-<li>Control MarsCat&apos;s move</li>
-<li>Display MarsCat&apos;s voice</li>
-<li>Display MarsCat&apos;s vision</li>
-<li>Display MarsCat&apos;s sensor</li>
-</ul>
+<h2 id="&#x4E0B;&#x8F7D;api">&#x4E0B;&#x8F7D;API</h2>
+<pre><code>cd ~
+git clone https://github.com/elephantrobotics/marscatAPI.git
+cd marscatAPI
+</code></pre><h2 id="&#x57FA;&#x672C;&#x8FD0;&#x52A8;">&#x57FA;&#x672C;&#x8FD0;&#x52A8;</h2>
+<pre><code># file: move/movement.py
+# See this file for more functions
+
+import movement
+
+mv = movement.MoveMent()
+mv.set_walk(step = 2, speed = 0.7)
+...
+</code></pre><h2 id="&#x89E6;&#x6478;&#x68C0;&#x6D4B;">&#x89E6;&#x6478;&#x68C0;&#x6D4B;</h2>
+<pre><code># file: sensor/touch.py
+
+import touch
+
+tc = touch.Touch()
+tc.test_touch()
+</code></pre><h2 id="&#x663E;&#x793A;&#x773C;&#x775B;">&#x663E;&#x793A;&#x773C;&#x775B;</h2>
+<pre><code># file: eye/eyedisplay.py
+
+import eyedisplay
+
+eyes = eyedisplay.EyeDisplay()
+eyes.display_eye(ball_num = 1, lid_num = 1, ball_type = &apos;eye_ball&apos;, dx = 0, dy = 0)
+
+&quot;&quot;&quot;
+args:
+    ball_num --&gt; int:
+        1~10
+        # Eyeball size
+    lid_num --&gt; int:
+        1~10
+        # Eyelid size
+    ball_type --&gt; str:
+        [eye_ball, ball, face, flip, heat, hug, teaser, voice,
+                         low_power, charging, dizzy, bowlorhungry, sleep
+                         high_temperature, hw_error]
+        # To select which folder the picture comes from
+        # eye/eyeball/
+    dx,dy --&gt; int:
+        # Coordinates of eyeball
+        # (0, 0) in the middle
+&quot;&quot;&quot;
+</code></pre><h2 id="&#x64AD;&#x653E;&#x58F0;&#x97F3;">&#x64AD;&#x653E;&#x58F0;&#x97F3;</h2>
+<pre><code># file: sound/catsound.py
+
+import catsound
+
+s = catsound.CatSound()
+s.meow()
+</code></pre><h2 id="&#x56FE;&#x50CF;&#x8BC6;&#x522B;">&#x56FE;&#x50CF;&#x8BC6;&#x522B;</h2>
+<pre><code># file: vision/vision_base.py
+
+import vision_base
+
+vision = vision_base.Vision()
+vision.test()
+</code></pre><p>&#x53EF;&#x4EE5;&#x5BF9;&#x4EBA;&#x8138;&#x3001;&#x84DD;&#x8272;&#x7684;&#x5C0F;&#x7403;&#x3001;&#x914D;&#x5957;&#x7684;&#x9017;&#x732B;&#x68D2;&#x4EE5;&#x53CA;&#x914D;&#x5957;&#x7684;&#x4E8C;&#x7EF4;&#x7801;&#x8FDB;&#x884C;&#x8BC6;&#x522B;&#x3002;</p>
+<h2 id="&#x8BED;&#x97F3;&#x8BC6;&#x522B;">&#x8BED;&#x97F3;&#x8BC6;&#x522B;</h2>
+<pre><code># file: voice/voice_base.py
+
+import voice_base
+voice_base.test_voice()
+</code></pre><h3 id="&#x9009;&#x62E9;&#x8BED;&#x97F3;&#x8BC6;&#x522B;&#x8BED;&#x8A00;">&#x9009;&#x62E9;&#x8BED;&#x97F3;&#x8BC6;&#x522B;&#x8BED;&#x8A00;</h3>
+<pre><code># file: voice/voice_base.py 28&#x884C;
+def speak_config(self):
+    language = &quot;Chinese&quot;
+</code></pre><h3 id="&#x8BED;&#x97F3;&#x5524;&#x9192;">&#x8BED;&#x97F3;&#x5524;&#x9192;</h3>
+<p><strong>&#x5524;&#x9192;&#x8BCD;</strong>&#xFF1A;</p>
+<pre><code># file: voice/voice_base.py 142&#x884C;
+
+ACTIVATION_WORDS = [
+                            &apos;HI MARSCAT&apos;, &apos;MARSCAT&apos;, &apos;MASSCAT&apos;, &apos;MASKCAT&apos;, &apos;MARS&apos;,
+                            &apos;ASSCAT&apos;, &apos;MASS&apos;, &apos;&#x54AA;&#x54AA;&apos;, &apos;&#x5C0F;&#x732B;&apos;, &apos;&#x732B;&apos;
+                        ]
+</code></pre><pre><code># file: voice/voice_base.py 152&#x884C;
+if ff:
+    &#x5524;&#x9192;&#x6210;&#x529F;&#xFF0C;&#x8FDB;&#x5165;&#x8046;&#x542C;&#x6A21;&#x5F0F;
+</code></pre><p>voice/corpus/<em>*</em>.dic&#x7684;&#x6587;&#x4EF6;&#x4E2D;&#x5305;&#x542B;&#x4E86;&#x4E09;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x6240;&#x6709;&#x53EF;&#x7528;&#x4E8E;&#x8BC6;&#x522B;&#x7684;&#x8BCD;</p>
 
                                 
                                 </section>
@@ -362,14 +395,10 @@
 
             
                 
-                <a href="5-Character-Development.html" class="navigation navigation-prev " aria-label="Previous page: 5 Character Development">
+                <a href="9-questions.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: 9 Frequently asked questions/contact information">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
-                
-                <a href="7-Notes-on-use.html" class="navigation navigation-next " aria-label="Next page: 7 Notes on use">
-                    <i class="fa fa-angle-right"></i>
-                </a>
                 
             
         
@@ -378,7 +407,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"6 MarsApp","level":"1.6","depth":1,"next":{"title":"7 Notes on use","level":"1.7","depth":1,"path":"page/7-Notes-on-use.md","ref":"page/7-Notes-on-use.md","articles":[]},"previous":{"title":"5 Character Development","level":"1.5","depth":1,"path":"page/5-Character-Development.md","ref":"page/5-Character-Development.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["chapter-fold","back-to-top-button","livereload"],"pluginsConfig":{"chapter-fold":{},"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"page/6-MarsApp.md","mtime":"2021-06-21T10:19:19.772Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-21T10:25:37.437Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"10 MarsCatAPI","level":"1.10","depth":1,"previous":{"title":"9 Frequently asked questions/contact information","level":"1.9","depth":1,"path":"page/9-questions.md","ref":"page/9-questions.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["chapter-fold","back-to-top-button","livereload"],"pluginsConfig":{"chapter-fold":{},"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"page/10-marscatAPI.md","mtime":"2021-06-21T09:56:49.658Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-21T10:25:37.437Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
