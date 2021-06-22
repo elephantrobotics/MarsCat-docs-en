@@ -270,27 +270,28 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="marscat-&#x5F00;&#x53D1;&#x624B;&#x518C;">MarsCat &#x5F00;&#x53D1;&#x624B;&#x518C;</h1>
-<h2 id="&#x5F00;&#x53D1;&#x524D;&#x7684;&#x51C6;&#x5907;">&#x5F00;&#x53D1;&#x524D;&#x7684;&#x51C6;&#x5907;</h2>
+                                <h1 id="marscat-development-manual">MarsCat Development manual</h1>
 <ul>
-<li>&#x8FDE;&#x63A5;&#x663E;&#x793A;&#x5668;&#x3001;&#x9F20;&#x6807;&#x3001;&#x952E;&#x76D8;</li>
-<li><p>&#x8FDE;&#x63A5;wifi&#x540E;&#xFF0C;ssh&#x3001;vnc&#x7B49;&#x8FDC;&#x7A0B;&#x8FDE;&#x63A5;</p>
-<p>  <strong>&#x6CE8; &#x8D26;&#x6237;&#x548C;&#x5BC6;&#x7801;&#x90FD;&#x662F; <code>pi</code></strong></p>
+<li>Connect Display screen, mouse and keyboard.</li>
+<li><p>Connect wifi, Remote connection such as ssh, vnc.</p>
+<p><strong>Note: Account and password are both <code>pi</code></strong></p>
 </li>
-<li>&#x5728;&#x5F00;&#x53D1;&#x524D;&#x9700;&#x8981;&#x505C;&#x6B62;&#x732B;&#x54AA;&#x7684;&#x5F00;&#x673A;&#x81EA;&#x542F;&#x670D;&#x52A1;<pre><code>  cd ~/marsai
-  ./tools/stop-systemd-services.sh
-  ./tools/disable-systemd-services.sh
+<li><p>MarsCat&apos;s boot-up service needs to be stopped before development</p>
+<pre><code>cd ~/marsai
+./tools/stop-systemd-services.sh
+./tools/disable-systemd-services.sh
 </code></pre></li>
-<li>&#x5982;&#x679C;&#x4F60;&#x8981;&#x653E;&#x5F03;&#x4E86;&#xFF0C;&#x91CD;&#x542F;&#x732B;&#x7684;&#x670D;&#x52A1;<pre><code>  cd ~/marsai
-  ./tools/enable-systemd-services.sh
-  ./tools/start-systemd-services.sh
+<li><p>If you&apos;re about to give up, restart the MarsCat&apos;s service</p>
+<pre><code>cd ~/marsai
+./tools/enable-systemd-services.sh
+./tools/start-systemd-services.sh
 </code></pre></li>
 </ul>
-<h2 id="&#x4E0B;&#x8F7D;api">&#x4E0B;&#x8F7D;API</h2>
+<h2 id="download-api">Download API</h2>
 <pre><code>cd ~
 git clone https://github.com/elephantrobotics/marscatAPI.git
 cd marscatAPI
-</code></pre><h2 id="&#x57FA;&#x672C;&#x8FD0;&#x52A8;">&#x57FA;&#x672C;&#x8FD0;&#x52A8;</h2>
+</code></pre><h2 id="basic-exercise">Basic exercise</h2>
 <pre><code># file: move/movement.py
 # See this file for more functions
 
@@ -299,14 +300,14 @@ import movement
 mv = movement.MoveMent()
 mv.set_walk(step = 2, speed = 0.7)
 ...
-</code></pre><h2 id="&#x89E6;&#x6478;&#x68C0;&#x6D4B;">&#x89E6;&#x6478;&#x68C0;&#x6D4B;</h2>
+</code></pre><h2 id="touch-test">Touch test</h2>
 <pre><code># file: sensor/touch.py
 
 import touch
 
 tc = touch.Touch()
 tc.test_touch()
-</code></pre><h2 id="&#x663E;&#x793A;&#x773C;&#x775B;">&#x663E;&#x793A;&#x773C;&#x775B;</h2>
+</code></pre><h2 id="display-eyes">Display eyes</h2>
 <pre><code># file: eye/eyedisplay.py
 
 import eyedisplay
@@ -332,42 +333,42 @@ args:
         # Coordinates of eyeball
         # (0, 0) in the middle
 &quot;&quot;&quot;
-</code></pre><h2 id="&#x64AD;&#x653E;&#x58F0;&#x97F3;">&#x64AD;&#x653E;&#x58F0;&#x97F3;</h2>
+</code></pre><h2 id="play-the-sound">Play the sound</h2>
 <pre><code># file: sound/catsound.py
 
 import catsound
 
 s = catsound.CatSound()
 s.meow()
-</code></pre><h2 id="&#x56FE;&#x50CF;&#x8BC6;&#x522B;">&#x56FE;&#x50CF;&#x8BC6;&#x522B;</h2>
+</code></pre><h2 id="image-recognition">Image Recognition</h2>
 <pre><code># file: vision/vision_base.py
 
 import vision_base
 
 vision = vision_base.Vision()
 vision.test()
-</code></pre><p>&#x53EF;&#x4EE5;&#x5BF9;&#x4EBA;&#x8138;&#x3001;&#x84DD;&#x8272;&#x7684;&#x5C0F;&#x7403;&#x3001;&#x914D;&#x5957;&#x7684;&#x9017;&#x732B;&#x68D2;&#x4EE5;&#x53CA;&#x914D;&#x5957;&#x7684;&#x4E8C;&#x7EF4;&#x7801;&#x8FDB;&#x884C;&#x8BC6;&#x522B;&#x3002;</p>
-<h2 id="&#x8BED;&#x97F3;&#x8BC6;&#x522B;">&#x8BED;&#x97F3;&#x8BC6;&#x522B;</h2>
+</code></pre><p>Faces, blue balls, matching Cat Teaser, and matching QR codes can be identified.</p>
+<h2 id="voice-recognition">Voice Recognition</h2>
 <pre><code># file: voice/voice_base.py
 
 import voice_base
 voice_base.test_voice()
-</code></pre><h3 id="&#x9009;&#x62E9;&#x8BED;&#x97F3;&#x8BC6;&#x522B;&#x8BED;&#x8A00;">&#x9009;&#x62E9;&#x8BED;&#x97F3;&#x8BC6;&#x522B;&#x8BED;&#x8A00;</h3>
+</code></pre><h3 id="select-the-speech-recognition-language">Select the speech recognition language</h3>
 <pre><code># file: voice/voice_base.py 28&#x884C;
 def speak_config(self):
     language = &quot;Chinese&quot;
-</code></pre><h3 id="&#x8BED;&#x97F3;&#x5524;&#x9192;">&#x8BED;&#x97F3;&#x5524;&#x9192;</h3>
-<p><strong>&#x5524;&#x9192;&#x8BCD;</strong>&#xFF1A;</p>
-<pre><code># file: voice/voice_base.py 142&#x884C;
+</code></pre><h3 id="voice-wake-up">Voice wake-up</h3>
+<p>Wake-up word:</p>
+<pre><code># file: voice/voice_base.py 142row
 
 ACTIVATION_WORDS = [
                             &apos;HI MARSCAT&apos;, &apos;MARSCAT&apos;, &apos;MASSCAT&apos;, &apos;MASKCAT&apos;, &apos;MARS&apos;,
-                            &apos;ASSCAT&apos;, &apos;MASS&apos;, &apos;&#x54AA;&#x54AA;&apos;, &apos;&#x5C0F;&#x732B;&apos;, &apos;&#x732B;&apos;
+                            &apos;ASSCAT&apos;, &apos;MASS&apos;
                         ]
-</code></pre><pre><code># file: voice/voice_base.py 152&#x884C;
+</code></pre><pre><code># file: voice/voice_base.py 152row
 if ff:
-    &#x5524;&#x9192;&#x6210;&#x529F;&#xFF0C;&#x8FDB;&#x5165;&#x8046;&#x542C;&#x6A21;&#x5F0F;
-</code></pre><p>voice/corpus/<em>*</em>.dic&#x7684;&#x6587;&#x4EF6;&#x4E2D;&#x5305;&#x542B;&#x4E86;&#x4E09;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x6240;&#x6709;&#x53EF;&#x7528;&#x4E8E;&#x8BC6;&#x522B;&#x7684;&#x8BCD;</p>
+    Wake up successfully and enter listening mode
+</code></pre><p>The file of <strong>voice/corpus/</strong>.dic  contains all the words that can be recognized in three languages</p>
 
                                 
                                 </section>
@@ -407,7 +408,7 @@ if ff:
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"10 MarsCatAPI","level":"1.10","depth":1,"previous":{"title":"9 Frequently asked questions/contact information","level":"1.9","depth":1,"path":"page/9-questions.md","ref":"page/9-questions.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["chapter-fold","back-to-top-button","livereload"],"pluginsConfig":{"chapter-fold":{},"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"page/10-marscatAPI.md","mtime":"2021-06-21T09:56:49.658Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-21T10:25:37.437Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"10 MarsCatAPI","level":"1.10","depth":1,"previous":{"title":"9 Frequently asked questions/contact information","level":"1.9","depth":1,"path":"page/9-questions.md","ref":"page/9-questions.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["chapter-fold","back-to-top-button","livereload"],"pluginsConfig":{"chapter-fold":{},"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"page/10-marscatAPI.md","mtime":"2021-06-22T09:58:22.326Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-22T10:27:16.580Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
