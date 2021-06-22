@@ -13,5 +13,6 @@ This Gitbook is not updated regularly. The updated time and content will be on t
 | 1       | 06.04              | Update eye image, MarsApp and other details                                                                                         |
 | 2       | 06.08              | Update the table and other details                                                                                                  |
 | 3       | 06.17              | Update how to turn on MarsCat, there are some precautions. Update MarsApp(download and solutions for unable to connect). Update FAQ |
+| 4       | 06.22              | Update the MarsCatAPI                                                                                                               |
 
 Users can download the latest version from the official website of Elephant Robotics at any time.

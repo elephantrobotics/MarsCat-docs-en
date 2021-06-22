@@ -1,24 +1,26 @@
-# MarsCat 开发手册
+# MarsCat Development manual
 
-## 开发前的准备
-- 连接显示器、鼠标、键盘
+- Co连接显示器、鼠标、键盘
 - 连接wifi后，ssh、vnc等远程连接
 
-    **注 账户和密码都是 `pi`**
+  **注 账户和密码都是 `pi`**
 - 在开发前需要停止猫咪的开机自启服务
-    ```
-    cd ~/marsai
-    ./tools/stop-systemd-services.sh
-    ./tools/disable-systemd-services.sh
-    ```
+
+  ```
+  cd ~/marsai
+  ./tools/stop-systemd-services.sh
+  ./tools/disable-systemd-services.sh
+  ```
 - 如果你要放弃了，重启猫的服务
-    ```
-    cd ~/marsai
-    ./tools/enable-systemd-services.sh
-    ./tools/start-systemd-services.sh
-    ```
+
+  ```
+  cd ~/marsai
+  ./tools/enable-systemd-services.sh
+  ./tools/start-systemd-services.sh
+  ```
 
 ## 下载API
+
 ```
 cd ~
 git clone https://github.com/elephantrobotics/marscatAPI.git
@@ -26,6 +28,7 @@ cd marscatAPI
 ```
 
 ## 基本运动
+
 ```
 # file: move/movement.py
 # See this file for more functions
@@ -38,6 +41,7 @@ mv.set_walk(step = 2, speed = 0.7)
 ```
 
 ## 触摸检测
+
 ```
 # file: sensor/touch.py
 
@@ -47,8 +51,8 @@ tc = touch.Touch()
 tc.test_touch()
 ```
 
-
 ## 显示眼睛
+
 ```
 # file: eye/eyedisplay.py
 
@@ -78,6 +82,7 @@ args:
 ```
 
 ## 播放声音
+
 ```
 # file: sound/catsound.py
 
@@ -88,6 +93,7 @@ s.meow()
 ```
 
 ## 图像识别
+
 ```
 # file: vision/vision_base.py
 
@@ -96,8 +102,8 @@ import vision_base
 vision = vision_base.Vision()
 vision.test()
 ```
-可以对人脸、蓝色的小球、配套的逗猫棒以及配套的二维码进行识别。
 
+可以对人脸、蓝色的小球、配套的逗猫棒以及配套的二维码进行识别。
 
 ## 语音识别
 
@@ -107,7 +113,9 @@ vision.test()
 import voice_base
 voice_base.test_voice()
 ```
+
 ### 选择语音识别语言
+
 ```
 # file: voice/voice_base.py 28行
 def speak_config(self):
@@ -117,6 +125,7 @@ def speak_config(self):
 ### 语音唤醒
 
 **唤醒词**：
+
 ```
 # file: voice/voice_base.py 142行
 
@@ -131,4 +140,5 @@ ACTIVATION_WORDS = [
 if ff:
     唤醒成功，进入聆听模式
 ```
+
 voice/corpus/***.dic的文件中包含了三种语言的所有可用于识别的词
