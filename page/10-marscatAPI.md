@@ -1,17 +1,17 @@
 # MarsCat Development manual
 
-- Co连接显示器、鼠标、键盘
-- 连接wifi后，ssh、vnc等远程连接
+- Connect Display screen, mouse and keyboard.
+- Connect wifi, Remote connection such as ssh, vnc.
 
-  **注 账户和密码都是 `pi`**
-- 在开发前需要停止猫咪的开机自启服务
+  **Note: Account and password are both `pi`**
+- MarsCat's boot-up service needs to be stopped before development
 
   ```
   cd ~/marsai
   ./tools/stop-systemd-services.sh
   ./tools/disable-systemd-services.sh
   ```
-- 如果你要放弃了，重启猫的服务
+- If you're about to give up, restart the MarsCat's service
 
   ```
   cd ~/marsai
@@ -19,7 +19,7 @@
   ./tools/start-systemd-services.sh
   ```
 
-## 下载API
+## Download API
 
 ```
 cd ~
@@ -27,7 +27,7 @@ git clone https://github.com/elephantrobotics/marscatAPI.git
 cd marscatAPI
 ```
 
-## 基本运动
+## Basic exercise
 
 ```
 # file: move/movement.py
@@ -40,7 +40,7 @@ mv.set_walk(step = 2, speed = 0.7)
 ...
 ```
 
-## 触摸检测
+## Touch test
 
 ```
 # file: sensor/touch.py
@@ -51,7 +51,7 @@ tc = touch.Touch()
 tc.test_touch()
 ```
 
-## 显示眼睛
+## Display eyes
 
 ```
 # file: eye/eyedisplay.py
@@ -81,7 +81,7 @@ args:
 """
 ```
 
-## 播放声音
+## Play the sound
 
 ```
 # file: sound/catsound.py
@@ -92,7 +92,7 @@ s = catsound.CatSound()
 s.meow()
 ```
 
-## 图像识别
+## Image Recognition
 
 ```
 # file: vision/vision_base.py
@@ -103,9 +103,9 @@ vision = vision_base.Vision()
 vision.test()
 ```
 
-可以对人脸、蓝色的小球、配套的逗猫棒以及配套的二维码进行识别。
+Faces, blue balls, matching Cat Teaser, and matching QR codes can be identified.
 
-## 语音识别
+## Voice Recognition
 
 ```
 # file: voice/voice_base.py
@@ -114,7 +114,7 @@ import voice_base
 voice_base.test_voice()
 ```
 
-### 选择语音识别语言
+### Select the speech recognition language
 
 ```
 # file: voice/voice_base.py 28行
@@ -122,23 +122,23 @@ def speak_config(self):
     language = "Chinese"
 ```
 
-### 语音唤醒
+### Voice wake-up
 
-**唤醒词**：
+Wake-up word:
 
 ```
-# file: voice/voice_base.py 142行
+# file: voice/voice_base.py 142row
 
 ACTIVATION_WORDS = [
                             'HI MARSCAT', 'MARSCAT', 'MASSCAT', 'MASKCAT', 'MARS',
-                            'ASSCAT', 'MASS', '咪咪', '小猫', '猫'
+                            'ASSCAT', 'MASS'
                         ]
 ```
 
 ```
-# file: voice/voice_base.py 152行
+# file: voice/voice_base.py 152row
 if ff:
-    唤醒成功，进入聆听模式
+    Wake up successfully and enter listening mode
 ```
 
-voice/corpus/***.dic的文件中包含了三种语言的所有可用于识别的词
+The file of **voice/corpus/**.dic  contains all the words that can be recognized in three languages
