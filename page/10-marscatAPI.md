@@ -3,7 +3,7 @@
 - Connect Display screen, mouse and keyboard.
 - Connect wifi, Remote connection such as ssh, vnc.
 
-  **Note: Account and password are both `pi`**
+  **Note: Account is `pi`, Passward is `raspberry`**
 - MarsCat's boot-up service needs to be stopped before development
 
   ```
