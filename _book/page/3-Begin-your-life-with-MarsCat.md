@@ -45,3 +45,36 @@ Refer to **MarsApp**
 ## 3.5 Turn off MarsCat
 
 If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don't stop pressing the button until the status LED goes off.
+
+## 3.6 Update
+You can get resources from [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)
+
+#### Get ready
+- USB-TypeC hub
+- USB disk
+
+#### Step
+- Copy `marsai update.zip` to the USB disk.
+- Connect the marscat with the charger, start marscat, wait for its eyes to light up, and then plug in the USB disk.
+- Minutes later, marscat will restart, pull the USB disk out when the marscat's limbs are relaxed.
+- Restart marscat (switching power supply), update successfully.
+
+
+#### If the update fails, please restart the marscat and repeat the above steps.
+
+## 3.7 Recovery
+You can get resources from [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)
+
+#### Get ready
+- USB-TypeC hub
+- USB disk
+
+#### Step
+- Copy `marsai-system.zip` to USB disk.
+- Restart the marscat, plug in the USB disk when its eyes light up.
+- 1-2 minutes later, marscat's eyes appear USB connection prompt.
+- Then marscat will restart, pull out the USB disk when its eyes appear boot animation; If marscat doesn't restart, when marscat's eyes appear recovery animation, you can pull out the USB disk.
+- Restart marscat (switching power supply), recover successfully.
+
+
+#### If the recovery fails, please restart the marscat and repeat the above steps.

@@ -19,8 +19,8 @@
 | **Weight:**         | 2.9KG                                                                          | **Battery Duration:**  | 2 Hours Regular Motion, 3-4Hours Regular Motion |
 | **MicroProcessor:** | Raspberry Pi 3B(wifi)-Quad-Core ARM Cortex-A53CPU,1GB RAM                      | **Charge:**            | Charging Station/Power Adapter; 8.4V/2A(Max)    |
 | **Display:**        | 20LEDs(EYES), 128×128px, 1.5 Inch                                             | **Charge Duration:**   | 4-6 hours                                       |
-| **Camera:**         | 5M Pixel Camera, 72 degree                                                     | **Accessories:**       | Type-C USB, 4 Changeable Paws                   |
-|                           |                                                                                | **Toys:**              | Cat Ball                           |
+| **Camera:**         | 5M Pixel Camera, 72 degree                                                     | **Accessories:**       | Type-C USB, Cat Bowl          |
+|                           |                                                                                | **Toys:**              | Cat Ball, Cat Teaser              |
 
 ## 2.2 Charging Station
 

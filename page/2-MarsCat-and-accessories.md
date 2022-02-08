@@ -4,7 +4,7 @@
 
 **Structure Illustration**
 
-![](..\image\MarsCat_demo\1619491081944.png)
+![](../image/page-2/2-1.png)
 
 **Product Parameter**
 
@@ -24,7 +24,7 @@
 
 ## 2.2 Charging Station
 
-![](image/2-MarsCat-and-accessories/1622702636376.png)
+![](../image/page-2/2-2.png)
 
 **Note:**
 
@@ -48,7 +48,7 @@
 
 The ex-factory plug of the power supply has 2 circular holes, and we will provide a converter free according to your country. If the provided converter is not suitable, please purchase it by yourself.
 
-![](image/2-MarsCat-and-accessories/1622702656166.png)
+![](../image/page-2/2-3.png)
 
 **Note:**
 
@@ -73,9 +73,9 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 
 When you receive your box, you should connect MarsBowl shown in the picture.
 
-![](image/2-MarsCat-and-accessories/1622779249743.png)
+![](../image/page-2/2-4.png)
 
-![](image/2-MarsCat-and-accessories/1622702678275.png)
+![](../image/page-2/2-5.png)
 
 **Note:**
 
@@ -87,6 +87,7 @@ When you receive your box, you should connect MarsBowl shown in the picture.
 
 Customer can use toys as follows to play with MarsCat.
 
-- Ball(supplied)![](image/2-MarsCat-and-accessories/1622702772402.png)
+- Ball(supplied)![](../image/page-2/2-6.png)
 
 It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
+

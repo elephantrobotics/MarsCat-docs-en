@@ -14,27 +14,27 @@ There are two situations in which MarsCat can feed themselves. One is when MarsC
 
 Step1: Connect the charger to the Charging Station and the power socket.
 
-![](..\image\MarsCat_demo\1619491403527.png)
+![](../image/page-4/4-1.png)
 
 Step2: Be sure to allow clearance around the charging station as shown below.
 
-![](..\image\MarsCat_demo\1619491431007.png)
+![](../image/page-4/4-2.png)
 
 Step3: MarsCat will go to the charging station to charge itself **when its battery is lower than 15%(its eyes will show a low battery sign)**; **the charging station is within the range of its vision(3\*3m)**
 
 MarsCat will not charge itself only if both the above two conditions are met.
 
-![tempsnip](..\image\MarsCat_demo\1619491449047.png)
+![tempsnip](../image/page-4/4-3.png)
 
 Step4: When MarsCat is properly laid down, the battery starts charging and the status LED of the charger turns red.
 
-![](..\image\MarsCat_demo\1619491465817.png)
+![](../image/page-4/4-4.png)
 
 Step5: When MarsCat is fully charged, the status LED of the charger turns green.
 
 It takes approximately 4-6 hours to fully charge MarsCat.
 
-![](..\image\MarsCat_demo\1619491480234.png)
+![](../image/page-4/4-5.png)
 
 Unplug the charger immediately after full charge to avoid damage to the charger or MarsCat due to prolonged charging heat.
 

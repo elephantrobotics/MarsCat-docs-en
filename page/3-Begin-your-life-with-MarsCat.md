@@ -16,7 +16,7 @@
 
 - Step1 Press and hold the power button art the belly of MarsCat for 2 seconds. The status LED lights in blue and MarsCat is turned on.
 
-![](..\image\MarsCat_demo\1619491302215.png)
+![](../image/page-3/3-1.png)
 
 **Note:** Press and hold the button, and you should release the button when the power light turns blue. 
 
@@ -26,13 +26,13 @@ It takes some time when you firstly turn on MarsCat, you should be patient.
 
 - Step2 Lay down MarsCat on a flat and clean floor as shown below. Wait for a while until MarsCat starts to move.
 
-![](..\image\MarsCat_demo\1619491325900.png)
+![](../image/page-3/3-2.png)
 
 **Note: It is neccessary to lay down MarsCat as shown in the picture, or you will fail to turn on MarsCat.**
 
 - Step3 When MarsCat gets up and stands still, proceed to “set up MarsCat with MarsAPP”
 
-![](..\image\MarsCat_demo\1619491344308.png)
+![](../image/page-3/3-3.png)
 
 ## 3.3 Getting the Charging Station ready
 
@@ -46,7 +46,7 @@ Refer to **MarsApp**
 
 If you want to turn off MarsCat, press and hold the power button at the belly of MarsCat for 5 seconds. The status LED lights in red first and then turns off later, don't stop pressing the button until the status LED goes off.
 
-## 3.6 Update MarsCat
+## 3.6 Update
 You can get resources from [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)
 
 #### Get ready
@@ -57,12 +57,24 @@ You can get resources from [releases](https://github.com/elephantrobotics/MarsCa
 - Copy `marsai update.zip` to the USB disk.
 - Connect the marscat with the charger, start marscat, wait for its eyes to light up, and then plug in the USB disk.
 - Minutes later, marscat will restart, pull the USB disk out when the marscat's limbs are relaxed.
-- Delete `marsai update.zip` from USB disk.
-- Copy `marsai-system.zip` to USB disk.
-- Restart the marscat, plug in the USB disk when its eyes light up.
-- 1-2 minutes later, marscat's eyes appear USB connection prompt.
-- Then marscat will restart, pull out the USB disk when its eyes appear boot animation; If marscat doesn't restart, when marscat's eyes appear recovery animation, you can pull out the USB disk.
 - Restart marscat (switching power supply), update successfully.
 
 
 #### If the update fails, please restart the marscat and repeat the above steps.
+
+## 3.7 Recovery
+You can get resources from [releases](https://github.com/elephantrobotics/MarsCat_Update/releases)
+
+#### Get ready
+- USB-TypeC hub
+- USB disk
+
+#### Step
+- Copy `marsai-system.zip` to USB disk.
+- Restart the marscat, plug in the USB disk when its eyes light up.
+- 1-2 minutes later, marscat's eyes appear USB connection prompt.
+- Then marscat will restart, pull out the USB disk when its eyes appear boot animation; If marscat doesn't restart, when marscat's eyes appear recovery animation, you can pull out the USB disk.
+- Restart marscat (switching power supply), recover successfully.
+
+
+#### If the recovery fails, please restart the marscat and repeat the above steps.
