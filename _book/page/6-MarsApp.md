@@ -8,15 +8,15 @@ MarsApp is designed for you to better interact with MarsCat, and help you enjoy 
 
 Install the MarsApp to your smartphone.
 
-1.Google: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
+1.Official website to download: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
 
 You can find download on official website shown in the following picture.
 
-![](image/6-MarsApp/1622703039803.png)
+![](../image/page-6/6-1.png)
 
 2.search marscat on Apple Store
 
-![](image/6-MarsApp/1623901367693.png)
+![](../image/page-6/6-2.png)
 
 **Version Support**
 
@@ -44,13 +44,13 @@ It is recommend to update your MarsApp to the latest version.
 
 1. MarsCat's Bluetooth signal could not be searched
 
-![](file:///C:/Users/Admin/Documents/WXWork/1688851065542459/Cache/Image/2021-06/e404142f41774efd2174d1e8f56f3f7.jpg)![](image/6-MarsApp/1623911420959.png)
+![](../image/page-6/6-6.png)
 
 **Solution**: Restart MarsCat & Reload MarsApp
 
 2.Staying on the Bluetooth connection page, and you can't turn on Bluetooth
 
-![](image/6-MarsApp/1623911457297.png)
+![](../image/page-6/6-7.png)
 
 **Solution**: When the App is first used, a request permission box pops up, If you don't see the request permission box after updating the App, you should give the app permission in the phone settings and try again.
 
@@ -58,13 +58,11 @@ It is recommend to update your MarsApp to the latest version.
 
 Follow the on-screen instructions to set up MarsCat with MarsApp.
 
-<img src="..\image\MarsCat_demo\_app1.png" alt="图片替换文本" width="400" height="600" align="bottom" />
+![](../image/page-6/6-3.png)
 
-<img src="..\image\MarsCat_demo\_app2.png" alt="图片替换文本" width="400" height="600" align="bottom" />
+![](../image/page-6/6-4.png)
 
-<img src="..\image\MarsCat_demo\_app3.png" alt="图片替换文本" width="400" height="600" align="bottom" />
-
-<img src="..\image\MarsCat_demo\_app4.png" alt="图片替换文本" width="400" height="600" align="bottom" />
+![](../image/page-6/6-5.png)
 
 P1: Learn the basic parameters for personalization settings.
 
@@ -87,6 +85,6 @@ P3: Remote control to unlock more interactive games
 You can visit "Play" in the menu to
 
 - Control MarsCat's move
-- Display MarsCat's voice
-- Display MarsCat's vision
-- Display MarsCat's sensor
+- Check MarsCat's voice
+- Check MarsCat's vision
+- Check MarsCat's sensor

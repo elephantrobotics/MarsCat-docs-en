@@ -56,16 +56,12 @@ It has touch,image and voice recognition, can feel your touch, hear your voice, 
 - MarsCat has a front-view camera on its nose that acts as human or animal eyes, supports Image Recognition, including faces and objects.
 - When you show the blue ball to your MarsCat or put it close to MarsCat, MarsCat may show interest or start playing with it.
 - You can even pet MarsCat with its own bowl. When MarsCat identifies its bowl, it may appear to be drinking or eating according to its physical conditions.
-- Reactions of Image Recognition in default can be added and changed by procedural programming.
 
 **5.3.3Voice Recognition: hear you**
 
-- MarsCat supports Voice Recognition. MarsCat can response to you in different ways when you communicate with your MarsCat in the following Voice Commands.
 - When your MarsCat fails to recognize Voice Commands, please take it to a quieter place and try again.
 - The current version of Voice Recognition supports Chinese and English.
 - You'd better to call "MarsCat" to awake MarsCat so that these voice conmmands is useful.
-
-
 
 <table>
 <tr>

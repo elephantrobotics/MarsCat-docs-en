@@ -8,7 +8,7 @@ MarsApp is designed for you to better interact with MarsCat, and help you enjoy 
 
 Install the MarsApp to your smartphone.
 
-1.Google: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
+1.Official website to download: [MarsCat – Elephant Robotics](https://www.elephantrobotics.com/en/mars-en/)
 
 You can find download on official website shown in the following picture.
 
@@ -85,6 +85,6 @@ P3: Remote control to unlock more interactive games
 You can visit "Play" in the menu to
 
 - Control MarsCat's move
-- Display MarsCat's voice
-- Display MarsCat's vision
-- Display MarsCat's sensor
+- Check MarsCat's voice
+- Check MarsCat's vision
+- Check MarsCat's sensor

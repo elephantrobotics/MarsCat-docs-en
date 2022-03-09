@@ -2,9 +2,11 @@
 
 ## 2.1 MarsCat
 
+![](..\image\page-2\2-1-1.jpg)
+
 **Structure Illustration**
 
-![](..\image\MarsCat_demo\1619491081944.png)
+![](../image/page-2/2-1.png)
 
 **Product Parameter**
 
@@ -23,8 +25,23 @@
 |                           |                                                                                | **Toys:**              | Cat Ball, Cat Teaser              |
 
 ## 2.2 Charging Station
+When you receive the goods, the charging pile assemblies you receive after unpacking are shown in the figure below
 
-![](image/2-MarsCat-and-accessories/1622702636376.png)
+<center class="half">
+    <img src="../image/page-2/2-2-1.jpg" width="250"/><img src="../image/page-2/2-2-2.png" width="250"/><img src="../image/page-2/2-2-3.png" width="250"/>
+</center>
+
+** Please follow the following steps to assemble the charging pile **
+
+1. Select a QR code sticker
+2. Attach the QR code sticker to the position as shown in the picture
+<center class="half">
+    <img src="../image/page-2/2-2-4.png" width="200"/>
+</center>
+3. Insert the plug-in plate with the QR code into the charging pile base
+4. The assembled charging pile is shown in the figure
+
+![](../image/page-2/2-2.png)
 
 **Note:**
 
@@ -46,9 +63,9 @@
 
 ## 2.3 Charger
 
-The ex-factory plug of the power supply has 2 circular holes, and we will provide a converter free according to your country. If the provided converter is not suitable, please purchase it by yourself.
-
-![](image/2-MarsCat-and-accessories/1622702656166.png)
+<center class="half">
+    <img src="../image/page-2/2-3.png" width="300"/>
+</center>
 
 **Note:**
 
@@ -58,6 +75,7 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 - To avoid the risk of heat generation or a malfunction of the adapter, unplug the power cord from the power outlet after the charging is completed.
 - The supplied power adaptor is exclusively designed for MarsCat's charging station. It should not be used with any other electric devices.
 - To purchase a new one, please visit our offificial website:[https://shop.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
+- The plug of the charger can be replaced
 
 **Product Parameter**
 
@@ -71,11 +89,27 @@ The ex-factory plug of the power supply has 2 circular holes, and we will provi
 
 ## 2.4 MarsBowl
 
-When you receive your box, you should connect MarsBowl shown in the picture.
+When you receive the goods, the cat bowl assemblies you receive after unpacking are shown below
 
-![](image/2-MarsCat-and-accessories/1622779249743.png)
+<center class="half">
+    <img src="../image/page-2/2-4-1.png" width="200"/><img src="../image/page-2/2-4-2.jpg" width="200"/><img src="../image/page-2/2-4-3.png" width="200"/><img src="../image/page-2/2-4-4.png" width="200"/>
+</center>
 
-![](image/2-MarsCat-and-accessories/1622702678275.png)
+** Please follow these steps to assemble the cat bowl **
+
+1. Select a QR code sticker
+2. Attach the QR code sticker to the position as shown in the picture
+
+<center class="half">
+    <img src="../image/page-2/2-4-5.jpg" width="200"/>
+</center>
+
+3. Insert the insert plate with the QR code into the base of the cat bowl
+4. The finished cat bowl is shown in the picture
+
+<center class="half">
+    <img src="../image/page-2/2-4.png" width="200"/>
+</center>
 
 **Note:**
 
@@ -87,6 +121,17 @@ When you receive your box, you should connect MarsBowl shown in the picture.
 
 Customer can use toys as follows to play with MarsCat.
 
-- Ball(supplied)![](image/2-MarsCat-and-accessories/1622702772402.png)
+- Ball(supplied)
+<center class="half">
+    <img src="../image/page-2/2-6.png" width="300"/>
+</center>
 
-It is specially designed for MarsCat, when MarsCat see this ball, he/she may approach the ball and make a pounce or kick.
+- Teaser(supplied)
+
+<center class="half">
+    <img src="../image/page-2/2-7.png" width="500"/>
+</center>
+
+
+It is specially designed for MarsCat, when MarsCat see toys, he/she may approach the toys and make a pounce or kick.
+

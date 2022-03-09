@@ -132,10 +132,11 @@ Obstacles are lower than MarsCat, so it can't be recognized by visual sensor. Yo
 
 Shenzhen Elephant Robotics Technology Co., Ltd
 
-Address: B7, Yungu Innovative Industrial Park 2, Nanshan, Shenzhen, China
+Address: Room 403,504,505 Black Ark Center, Electronics&Technology Building, Futian Dist, Shenzhen, China
 
 Email: <support@elephantrobotics.com>
 
 Phone:+86(0755)-8696-8565(working day 9:30-18:30)
 
-Website: www.elephantrobotics.com
+Website: https://www.elephantrobotics.com
+

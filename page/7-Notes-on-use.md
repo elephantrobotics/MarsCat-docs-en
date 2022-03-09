@@ -60,7 +60,7 @@ Product Parameter
 
 ## 7.3 Precautions for SD Card&Data
 
-- Do not take SD card out. If you want to read or transfer data, please use USB access to the fifile. For details, please visit our offificial website to consult relevant information:[https://www.elephantrobotics.com/.](https://www.elephantrobotics.com/.)
+- Do not take SD card out. If you want to read or transfer data, please use USB access to the fifile. For details, please visit our offificial website to consult relevant information:[https://www.elephantrobotics.com/](https://www.elephantrobotics.com/)
 - In the event that your data is not recorded and thus unavailable for retrieval due to some reasons, such as a malfunction of MarsCat or a communication error, please be advised that Elephant Robotics assumes no liability for compensating lost data.
 
 **7.4 Precautions for Network**
